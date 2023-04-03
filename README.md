@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, I'm Sriya! &nbsp;&nbsp;
 
-<!--
-**sriya-nagesh/sriya-nagesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
+Languages I work with: Python, JavaScript, Java, Dart, C#, SQL, CSS, HTML, and VBA
 
-Here are some ideas to get you started:
+**Software engineering major** &#12299;__
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+<a href="https://www.linkedin.com/in/sriya-nagesh">
+  <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
