@@ -4,6 +4,7 @@
 Languages I work with: Python, JavaScript, Java, Dart, C#, SQL, CSS, HTML, and VBA
 
 👨‍💻**Software engineering major**
+<br/>
 🌱**Currently working on Trackero**
 <br/>
 
