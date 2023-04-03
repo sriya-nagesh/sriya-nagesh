@@ -1,7 +1,7 @@
 ### Hello, I'm Sriya! &nbsp;&nbsp;
 
 ----
-Languages I work with: Python, JavaScript, Java, Dart, C#, SQL, CSS, HTML, and VBA
+Languages I work with: Python, JavaScript, Java, Dart, C++, C#, SQL, CSS, HTML, and VBA
 
 👨‍💻**Software engineering major**
 <br/>
